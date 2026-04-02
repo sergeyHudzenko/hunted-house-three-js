@@ -1,4 +1,4 @@
-# Hunted Hoouse (Three.js experiment) 
+# Hunted House (Three.js experiment) 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
