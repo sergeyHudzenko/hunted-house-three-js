@@ -30,6 +30,10 @@ body
     border-radius: 14px;
     backdrop-filter: blur(6px);
     color: #f7f5ff;
+}
+
+.point-events-none
+{
     user-select: none;
     pointer-events: none;
 }
